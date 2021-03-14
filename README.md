@@ -29,6 +29,9 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 
 * ### Лабораторная работа от 22-02-2021
 
+#### [Задание «FUNC-007 Рекурсивные функции»](https://kodaktor.ru/func_007)
+#### [Решение](https://kodaktor.ru/g/_func_cd448)
+
 #### [Задание «Цепочка прототипов»](https://kodaktor.ru/g/proto_chain)
 #### [Решение](https://kodaktor.ru/g/52b93ef)
 
