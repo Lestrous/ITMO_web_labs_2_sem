@@ -27,6 +27,11 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 
 Получившийся результат: https://kodaktor.ru/x/_dtd/f17f6
 
+* ### Лабораторная работа от 22-02-2021
+
+#### [Задание «Цепочка прототипов»](https://kodaktor.ru/g/proto_chain)
+#### [Решение](https://kodaktor.ru/g/52b93ef)
+
 * ### Лабораторная работа от 03-03-2021
 
 #### [Обязательное задание по fetch](https://kodaktor.ru/async_tasks)
