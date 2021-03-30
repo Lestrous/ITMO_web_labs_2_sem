@@ -21,7 +21,7 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 
 #### Решение (часть I)
 
-Код преобразования запросов: https://kodaktor.ru/j/27db2c5
+Код преобразования запросов: https://kodaktor.ru/x/27db2c5
 
 #### Преобразование вопросов из OLX в Moodle
 
