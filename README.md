@@ -17,6 +17,12 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 
 * ### XSL
 
+#### [Задание](https://kodaktor.ru/g/xsl_intro)
+
+#### Решение (часть I)
+
+Код преобразования запросов: https://kodaktor.ru/j/27db2c5
+
 #### Преобразование вопросов из OLX в Moodle
 
 Пример с OLX: https://kodaktor.ru/x/1ce435f
