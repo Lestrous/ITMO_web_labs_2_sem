@@ -23,6 +23,10 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 
 Код преобразования запросов: https://kodaktor.ru/x/27db2c5
 
+#### Решение (часть II)
+
+Код преобразования запросов: https://kodaktor.ru/j/c14172d
+
 #### Преобразование вопросов из OLX в Moodle
 
 Пример с OLX: https://kodaktor.ru/x/1ce435f
