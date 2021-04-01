@@ -21,6 +21,9 @@ Document: https://kodaktor.ru/x/_dtd/5bba1
 #### Решение (часть I)
 Валидатор: https://kodaktor.ru/api2/xsd/ca53851/8030498
 
+#### Решение (часть II)
+Валидатор: https://kodaktor.ru/api2/xsd/1a1d775/91b5463
+
 * ### XSL
 
 #### [Задание](https://kodaktor.ru/g/xsl_intro)
