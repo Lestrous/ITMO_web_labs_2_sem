@@ -15,6 +15,12 @@ DTD: http://kodaktor.ru/j/_dtd/6be75
 
 Document: https://kodaktor.ru/x/_dtd/5bba1
 
+* ### Лабораторная работа от 12-02-2021
+
+#### [Задание](https://kodaktor.ru/XSD-2020.pdf)
+#### Решение (часть I)
+Валидатор: https://kodaktor.ru/api2/xsd/ca53851/8030498
+
 * ### XSL
 
 #### [Задание](https://kodaktor.ru/g/xsl_intro)
